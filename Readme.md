@@ -120,3 +120,6 @@ Los invito a ingresar al archivo [Modelo de clasificacion final.ipynb](https://g
   ## Link de deployment
 https://henry-test-streamlit-app-zhi7kb23aq-ue.a.run.app/
  
+ ## Disclaimer
+Este proyecto esta enmarcado dentro de un contexto netamente academico. Tanto las fuentes utilizadas, incluidas el web-scrapping, o los productos y resultados   derivados del mismo no tienen ningun tipo de fin comercial o uso indebido de datos personales de personas naturales.
+ 
