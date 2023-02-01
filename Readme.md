@@ -116,11 +116,7 @@ Los invito a ingresar al archivo [Modelo de clasificacion final.ipynb](https://g
   <p align="center"> <img src = 'source\kmeans.png' ><p>
 <p>
  
- 
-
-  ## Video
- 
 
   ## Link de deployment
-
+https://henry-test-streamlit-app-zhi7kb23aq-ue.a.run.app/
  
